@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/booklistreact/static/css/main.99b0d861.css",
-    "main.js": "/booklistreact/static/js/main.193f7d2b.js",
-    "static/js/787.686d3523.chunk.js": "/booklistreact/static/js/787.686d3523.chunk.js",
-    "index.html": "/booklistreact/index.html",
-    "main.99b0d861.css.map": "/booklistreact/static/css/main.99b0d861.css.map",
-    "main.193f7d2b.js.map": "/booklistreact/static/js/main.193f7d2b.js.map",
-    "787.686d3523.chunk.js.map": "/booklistreact/static/js/787.686d3523.chunk.js.map"
+    "main.css": "/bookstorereact/static/css/main.99b0d861.css",
+    "main.js": "/bookstorereact/static/js/main.66617a84.js",
+    "static/js/787.686d3523.chunk.js": "/bookstorereact/static/js/787.686d3523.chunk.js",
+    "index.html": "/bookstorereact/index.html",
+    "main.99b0d861.css.map": "/bookstorereact/static/css/main.99b0d861.css.map",
+    "main.66617a84.js.map": "/bookstorereact/static/js/main.66617a84.js.map",
+    "787.686d3523.chunk.js.map": "/bookstorereact/static/js/787.686d3523.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99b0d861.css",
-    "static/js/main.193f7d2b.js"
+    "static/js/main.66617a84.js"
   ]
 }
